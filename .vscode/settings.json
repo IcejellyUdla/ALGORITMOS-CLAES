@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "CALUC.C": "cpp"
+        "CALUC.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp"
     }
 }
